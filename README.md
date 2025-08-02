@@ -1,4 +1,4 @@
-# -Handwritten-Digits-Recognizer-
+
 # ✍️ Handwritten Digit Recognizer using Deep Learning (MNIST)
 
 ## 📘 Introduction
