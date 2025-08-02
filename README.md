@@ -134,3 +134,6 @@ The final CNN model showed excellent performance across all datasets and general
 
 ## 🛠 Sample Architecture
 
+<img width="410" height="272" alt="image" src="https://github.com/user-attachments/assets/c9b156ef-9e4e-4f33-baf8-ec462aea1093" />
+
+
